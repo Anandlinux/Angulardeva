@@ -1,0 +1,2 @@
+# Angulardeva
+set detaills
